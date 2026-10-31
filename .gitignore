@@ -1,0 +1,4 @@
+veri/
+*.edf
+.ipynb_checkpoints/
+__pycache__/
